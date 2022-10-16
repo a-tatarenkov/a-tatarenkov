@@ -36,7 +36,7 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=GitLab)
 
-![Jira](https://img.shields.io/badge/GitLab-black?style=flat&logo=Jira)
+![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=Jira)
 ![Miro](https://img.shields.io/badge/Miro-black?style=flat&logo=Miro)
 
 ### Below you can see examples of my best students’ works 🔥
