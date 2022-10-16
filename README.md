@@ -9,7 +9,7 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 - 🌱 I’m currently improving my skills in the new  technologies , and alternative and innovative approach to realization and development new phone and web applications
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about 
-- 📫 How to reach me: ![telegram](https://img.shields.io/badge/telegram-blue)
+- 📫 How to reach me: [![telegram](https://img.shields.io/badge/telegram-blue)](https://t.me/afestin)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
