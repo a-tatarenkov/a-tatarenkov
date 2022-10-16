@@ -40,6 +40,7 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 
 ![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=Jira)
 ![Miro](https://img.shields.io/badge/Miro-black?style=flat&logo=Miro)
+![JetBrains](https://img.shields.io/badge/JetBrains-black?style=flat&logo=jetbrains)
 
 ### Below you can see examples of my best students’ works 🔥
 
