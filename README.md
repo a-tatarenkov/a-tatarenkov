@@ -12,7 +12,7 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 - 📫 How to reach me: [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/afestin)[![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://t.oleksii.main@gmail.com)
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
+![](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
 ![SASS](https://img.shields.io/badge/SASS/SCSS-black?style=flat&logo=SASS)
 ![gulp](https://img.shields.io/badge/Gulp-black?style=flat&logo=gulp)
