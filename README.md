@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=1&color=F70000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=while(!success)+%7B;++++tryAgain();++++if+(success);++++++++return+true;++++improve()+%7D)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&color=F70000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=while(!success)+%7B;++++tryAgain();++++if+(success);++++++++return+true;++++improve()+%7D)
 
 ### Hi, I'm Oleksii ✌️ I'm a Front-End, full stack developer, Front-End teacher and trainer 🎓 
 
