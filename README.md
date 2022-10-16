@@ -28,6 +28,8 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat&logo=angular)
 
 
+
+
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
 ![PostGree](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL)
