@@ -17,7 +17,7 @@ of teaching and coaching in IT. I am proficient in javascript development, creat
 ![SASS](https://img.shields.io/badge/SASS/SCSS-black?style=flat&logo=SASS)
 ![gulp](https://img.shields.io/badge/Gulp-black?style=flat&logo=gulp)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobeillustrator)
+![Illustrator](https://img.shields.io/badge/Illustrator-black?style=flat&logo=adobeillustrator)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
 
 
